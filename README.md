@@ -23,6 +23,7 @@ Van Life is a single-page application (SPA) built as part of Scrimba's Advanced 
 
 ## Technologies Used
 - React: For building the single-page application and managing components.
+- Vite: For a fast development environment and optimized build setup.
 - React Router: For advanced routing capabilities, including nested and protected routes.
 - Firebase: For database integration and real-time data management.
 - CSS: For styling the app.
