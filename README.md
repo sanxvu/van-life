@@ -13,10 +13,17 @@ Van Life is a single-page application (SPA) built as part of Scrimba's Advanced 
 - Real Database Integration
 - Deployment
 
+## How to Use
+1. Visit the hosted Van Life project [here](https://san-van-life.netlify.app/).
+2. Use the following credentials to access the host pages:
+    - Email: b&b.com
+    - Password: p123
+3. Explore the van listings and filter them by type.
+4. Access protected routes like host pages to manage van information.
+
 ## Technologies Used
 - React: For building the single-page application and managing components.
 - React Router: For advanced routing capabilities, including nested and protected routes.
 - Firebase: For database integration and real-time data management.
 - CSS: For styling the app.
 - Netlify: For deploying the project.
-
