@@ -16,7 +16,7 @@ Van Life is a single-page application (SPA) built as part of Scrimba's Advanced 
 ## How to Use
 1. Visit the hosted Van Life project [here](https://san-van-life.netlify.app/).
 2. Use the following credentials to access the host pages:
-    - Email: b&b.com
+    - Email: b@b.com
     - Password: p123
 3. Explore the van listings and filter them by type.
 4. Access protected routes like host pages to manage van information.
