@@ -30,7 +30,8 @@ Van Life is a single-page application (SPA) built as part of Scrimba's Advanced 
 - Netlify: For deploying the project.
 
 <img width="497" alt="Screenshot 2025-01-23 at 4 04 18 PM" src="https://github.com/user-attachments/assets/7a94fef2-14b8-4bde-8af4-1f835869a27e" />
-<img width="497" alt="Screenshot 2025-01-23 at 4 04 37 PM" src="https://github.com/user-attachments/assets/79b29d07-9e5c-4599-934b-2f18f09e2601" />
 <img width="486" alt="Screenshot 2025-01-23 at 4 05 00 PM" src="https://github.com/user-attachments/assets/ec878840-d718-424d-a73b-6c6cd730eeea" />
+<img width="497" alt="Screenshot 2025-01-23 at 4 04 37 PM" src="https://github.com/user-attachments/assets/79b29d07-9e5c-4599-934b-2f18f09e2601" />
 <img width="486" alt="Screenshot 2025-01-23 at 4 08 57 PM" src="https://github.com/user-attachments/assets/c180b1e3-1c05-4f49-aefc-4e7cf65d2004" />
 <img width="486" alt="Screenshot 2025-01-23 at 4 09 17 PM" src="https://github.com/user-attachments/assets/773fe642-e94d-4875-acca-2055de2d3494" />
+<img width="497" alt="Screenshot 2025-01-23 at 4 12 40 PM" src="https://github.com/user-attachments/assets/4564bc56-0635-4faa-91dd-bab9852ce8a7" />
